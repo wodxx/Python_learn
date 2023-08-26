@@ -1,0 +1,422 @@
+{
+    "root": {
+        "data": {
+            "id": "cueb0kpd8og0",
+            "created": 1690598115980,
+            "text": "Python3",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cufaxw3fxw00",
+                    "created": 1690699465640,
+                    "text": "Native_DataType",
+                    "expandState": "collapse",
+                    "layout_right_offset": {
+                        "x": -48,
+                        "y": -4
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cufcmo5mjw00",
+                            "created": 1690704228572,
+                            "text": "数据类型",
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cueb10bu4sw0",
+                                    "created": 1690598149991,
+                                    "text": "基本数据类型",
+                                    "layout_mind_offset": {
+                                        "x": -54,
+                                        "y": 0
+                                    },
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cueb0z3rgc00",
+                                            "created": 1690598147326,
+                                            "text": "整形、浮点型、复数"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cueb1jfhyhk0",
+                                            "created": 1690598191571,
+                                            "text": "打印输出print"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cueb1x7d3u80",
+                                            "created": 1690598221554,
+                                            "text": "数据类型转换（casting）"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cuebqi5r9280",
+                                                    "created": 1690600147909,
+                                                    "text": "int/string -> float、float/string -> int"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cuebr5xv4280",
+                                                    "created": 1690600199675,
+                                                    "text": "进制之间的转换"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cuehsco2oug0",
+                                    "created": 1690617219344,
+                                    "text": "String",
+                                    "layout_mind_offset": {
+                                        "x": 370,
+                                        "y": 160
+                                    },
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cueht17qj8o0",
+                                            "created": 1690617272776,
+                                            "text": "字符串的表示：单引号、双引号、三引号"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cuehtnv9u400",
+                                            "created": 1690617322088,
+                                            "text": "转义字符：\\，\\N, \\\\，\\t"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cuehu50936o0",
+                                            "created": 1690617359394,
+                                            "text": "占位字符：%s，%d, %f, %x"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cuehzhs4o3k0",
+                                            "created": 1690617779022,
+                                            "text": "切片（slicing）：用于取字符串的一部分、翻转、重写等操作",
+                                            "background": "#b6dde8"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cufaxyhotk00",
+                            "created": 1690699470855,
+                            "text": "容器",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cufb0aijtbc0",
+                                    "created": 1690699653757,
+                                    "text": "list"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cufb0c7enc80",
+                                    "created": 1690699657437,
+                                    "text": "tuple"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cufb0d0wmr40",
+                                    "created": 1690699659221,
+                                    "text": "dict"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cufb0dq6vnk0",
+                                    "created": 1690699660749,
+                                    "text": "set"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cufb0t1whe00",
+                    "created": 1690699694109,
+                    "text": "Flow_Control",
+                    "expandState": "collapse",
+                    "layout_right_offset": {
+                        "x": -46.4999983857075,
+                        "y": 40.24999840433384
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cufb11jncvc0",
+                            "created": 1690699712597,
+                            "text": "运算符与优先级",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cufb8hjsmoo0",
+                                    "created": 1690700295983,
+                                    "text": "数学运算符"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cufb8l7txdk0",
+                                    "created": 1690700303967,
+                                    "text": "逻辑运算符"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cufb124f7hk0",
+                            "created": 1690699713853,
+                            "text": "结构"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cufb9fjuh680",
+                                    "created": 1690700369997,
+                                    "text": "if...else"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cufb9n7cle80",
+                                    "created": 1690700386655,
+                                    "text": "for"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cufb9r17crs0",
+                                    "created": 1690700394991,
+                                    "text": "while"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cufb9s8ltxs0",
+                                    "created": 1690700397615,
+                                    "text": "break/continue"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cufba5jbmy80",
+                                    "created": 1690700426562,
+                                    "text": "Iter/genr"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cufc6rjhh0g0",
+                    "created": 1690702982114,
+                    "text": "Function",
+                    "layout_right_offset": {
+                        "x": -43.74999912455689,
+                        "y": 30.66666462603564
+                    },
+                    "expandState": "collapse"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cufcnp9q3ww0",
+                            "created": 1690704309361,
+                            "text": "函数基础"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cufcnzi6bf40",
+                                    "created": 1690704331640,
+                                    "text": "定义"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cufcoab7gig0",
+                                    "created": 1690704355163,
+                                    "text": "传参"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cufcrljiwa00",
+                                    "created": 1690704614703,
+                                    "text": "变量"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cufcnpyz37k0",
+                            "created": 1690704310888,
+                            "text": "基本内置函数"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cufcp4kgbao0",
+                            "created": 1690704421025,
+                            "text": "高阶函数"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cufdg25lgc00",
+                                    "created": 1690706531606,
+                                    "text": "filter、map、reduce、sorted"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cufdpvmoex40",
+                            "created": 1690707301043,
+                            "text": "偏函数"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cufdq1q304g0",
+                            "created": 1690707314310,
+                            "text": "topic"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cugfbrbk8x40",
+                    "created": 1690813396742,
+                    "text": "class",
+                    "layout_right_offset": {
+                        "x": -43,
+                        "y": 33
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cugfc0a1rqo0",
+                            "created": 1690813416242,
+                            "text": "定义于初始化"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cugfc5ofbn40",
+                            "created": 1690813427995,
+                            "text": "类的封装、继承和多态",
+                            "background": "#b6dde8"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cugfcao9yfs0",
+                            "created": 1690813438870,
+                            "text": "new方法"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cuqdzygmmxk0",
+                    "created": 1691825250373,
+                    "text": "迭代器、生成器、模块和包",
+                    "layout_right_offset": {
+                        "x": -45,
+                        "y": 8
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cuqe09kzsqw0",
+                    "created": 1691825274581,
+                    "text": "文件",
+                    "layout_right_offset": {
+                        "x": -46,
+                        "y": 18
+                    }
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-pink",
+    "version": "1.4.43"
+}
