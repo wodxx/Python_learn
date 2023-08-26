@@ -32,7 +32,6 @@ birth = input('birth: ')
 ## enumerate() 函数  
 该函数属于非常有用的高级用法     
 
-<<<<<<< HEAD
 ```txt
     for index in enumrate(list1)
     
@@ -45,8 +44,9 @@ birth = input('birth: ')
     3: Carl 
     
     将Python的enumerate()函数默认0起始索引值修改为1（或者其他任何整形值，根据需求去设置不同值）
-=======
-```python
+```
+
+```txt
 for index in enumrate(list1)
 
 dict.get(键）
@@ -58,5 +58,4 @@ print(f'{index}: {value}')
 3: Carl 
 
 将Python的enumerate()函数默认0起始索引值修改为1（或者其他任何整形值，根据需求去设置不同值）
->>>>>>> 1d24433b52d684d0f5763d8ae09345f2f0d903ad
 ```
